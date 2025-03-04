@@ -1,7 +1,7 @@
 {
-  "name": "Bellah-Xmd",
+  "name": "꧁ঔ☬۝𝐙𝐀𝐘𝐀𝐍𝐅𝐎𝐔𝐑𝐅𝐈𝐍𝐆𝐄𝐑𝐒۝☬ঔ꧂",
   "version": "1.0.0",
-  "description": "WhatsApp bot",
+  "description": "zayan bot",
   "logo": "https://i.imgur.com/yZN5Ynv.jpeg",
   "keywords": ["whatsapp", "bot", "md", "multi-device"],
   "repository": "https://github.com/xxx/xxx",
@@ -12,22 +12,22 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your session id",
-      "value": "",
+      "value": "Bellah~eyYyGK6L#EQaL1MeVTs7ATltHn6za9TI4sTMFj1-Z1GxopEwNIFA",
       "required": true
 },
   "BOT_NAME": {
       "description": "Enter bot name of your choice here",
-      "value": "Bellah Xmd",
-      "required": false
+      "value": "꧁ঔ☬۝𝐙𝐀𝐘𝐀𝐍𝐅𝐎𝐔𝐑𝐅𝐈𝐍𝐆𝐄𝐑𝐒۝☬ঔ꧂",
+      "required": true 
     },
   "OWNER_NUMBER": {
       "description": "Enter your whatsapp number here",
-      "value": "254104245659",
+      "value": "601117508525",
       "required": true
     },
   "TYPE_MENU": {
       "description": "Enter menu of your type,,menu types are V1-V8",
-      "value": "V3",
+      "value": "V4",
       "required": false
     },
   "AUTOSW_VIEW": {
@@ -38,12 +38,12 @@
   "WELCOME": {
       "description": "Type true if you want your bot to send welcome or goodbye messages in groups or else type fals",
       "value": "",
-      "required": false
+      "required": true 
     },
   "ANTI_CALL": {
       "description": "Type true if you want bot to reject incoming calls or else type false",
       "value": "",
-      "required": false
+      "required": true
     },
   "AUTO_BLOCK": {
       "description": "Type true if you want bot to block unknown numbers if else type false",
