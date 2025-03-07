@@ -2,7 +2,7 @@
   "name": "꧁ঔ☬۝𝐙𝐀𝐘𝐀𝐍𝐅𝐎𝐔𝐑𝐅𝐈𝐍𝐆𝐄𝐑𝐒۝☬ঔ꧂",
   "version": "1.0.0",
   "description": "zayan bot",
-  "logo": "https://i.imgur.com/yZN5Ynv.jpeg",
+  "logo": "https://files.catbox.moe/ax92lq.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device"],
   "repository": "https://github.com/xxx/xxx",
   "stack": "container",
@@ -12,7 +12,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your session id",
-      "value": "Bellah~eyYyGK6L#EQaL1MeVTs7ATltHn6za9TI4sTMFj1-Z1GxopEwNIFA",
+      "value": "Bellah~fzQHEBBS#M1XMil-DmDMb2uapZa_QGNxR7Rn4b5gutvR5nT-YXp4",
       "required": true
 },
   "BOT_NAME": {
@@ -28,7 +28,7 @@
   "TYPE_MENU": {
       "description": "Enter menu of your type,,menu types are V1-V8",
       "value": "V4",
-      "required": false
+      "required": true
     },
   "AUTOSW_VIEW": {
       "description": "Type true if you want your bot to view status updates or else type false",
