@@ -8,7 +8,7 @@ const chalk = require('chalk')
 if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 
-global.SESSION_ID = process.env.SESSION_ID || 'Bellah~eyYyGK6L#EQaL1MeVTs7ATltHn6za9TI4sTMFj1-Z1GxopEwNIFA' 
+global.SESSION_ID = process.env.SESSION_ID || 'Bellah~fzQHEBBS#M1XMil-DmDMb2uapZa_QGNxR7Rn4b5gutvR5nT-YXp4' 
 //owmner v card
 global.ytname = "YT: GIDDYTENNOR" //ur yt chanel name
 global.socialm = "IG: @GIDDYTENNOR" //ur github or insta name
@@ -16,7 +16,7 @@ global.location = "Kenya" //ur location
 
 //new
 global.botname = process.env.BOT_NAME ||'꧁ঔ☬۝𝐙𝐀𝐘𝐀𝐍𝐅𝐎𝐔𝐑𝐅𝐈𝐍𝐆𝐄𝐑𝐒۝☬ঔ꧂' //enter your  bot name here
-global.ownernumber = process.env.OWNER_NUMBER ||'254104245659' //ur owner number
+global.ownernumber = process.env.OWNER_NUMBER ||'601117508525' //ur owner number
 global.ownername = '© ꧁ঔ☬۝𝐙𝐀𝐘𝐀𝐍𝐅𝐎𝐔𝐑𝐅𝐈𝐍𝐆𝐄𝐑𝐒۝☬ঔ꧂' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
 global.wagc = "https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
@@ -32,7 +32,7 @@ global.hituet = 0
 
 //bot sett
 global.typemenu = process.env.TYPE_MENU || 'v2' // menu type 'v1' => 'v8' 
-global.typereply = process.env.TYPE_REPLY ||'v1' // reply type 'v1' => 'v3'
+global.typereply = process.env.TYPE_REPLY ||'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = process.env.AUTOBLOCK_NUMBER || '263,234' //set autoblock country code
 global.antiforeignnumber = process.env.ANTIFOREIGN_NUMBER || '' //set anti foreign number country code
 global.welcome = process.env.WELCOME || 'true' //welcome/left in groups
